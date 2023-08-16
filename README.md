@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hamin
 - 👀 I’m interested in Database Science
-- 🌱 I’m currently learning 
 - 📫 How to reach me mail: haphan2k2@gmail.com 💞
 
 <!---
